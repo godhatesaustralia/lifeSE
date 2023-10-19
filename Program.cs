@@ -112,7 +112,7 @@ namespace IngameScript
                     if (c.Value)
                         frame.Add(new MySprite(SpriteType.TEXTURE, "SquareSimple", c.Key * Constants.sizeMPLR, new Vector2(Constants.sizeMPLR, Constants.sizeMPLR), Constants.display, null, TextAlignment.CENTER, 0f));
 
-                frame.Add(new MySprite(SpriteType.TEXT, $"UPDATE {runs/Constants.xrange}             GAME OF LIFE", Constants.textPos, null, Constants.display, "VCRBold", TextAlignment.CENTER, 1f));
+                frame.Add(new MySprite(SpriteType.TEXT, $"UPDATE {runs/Constants.xrange}           GAME OF LIFE", Constants.textPos, null, Constants.display, "VCRBold", TextAlignment.CENTER, 1f));
                 frame.Dispose();
             }
             Echo(echoString + $"\nRuntime: {Runtime.TimeSinceLastRun.TotalMilliseconds} ms");
