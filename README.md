@@ -1,5 +1,5 @@
 # lifeSE
-A system of cells interlinked within
+"A system of cells interlinked within
 cells interlinked within cells interlinked
 within one stem. And dreadfully distinct
 against the dark, a tall white fountain played.
@@ -15,6 +15,6 @@ wickedly folded moth. But in the case
 of my white fountain what it did replace
 perceptually was something that, I felt,
 could be grasped only by whoever dwelt
-in the strange world where I was a mere stray.
+in the strange world where I was a mere stray."
 
 funny jokwe. laugh! laugh!!!
