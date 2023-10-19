@@ -3,6 +3,12 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# MDK stuff (i care not for your files)
+MDK.paths.props
+MDK.options.props
+Bootstrapper.cs
+
+
 # User-specific files
 *.rsuser
 *.suo
